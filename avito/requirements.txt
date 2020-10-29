@@ -1,0 +1,11 @@
+cffi==1.14.3
+click==7.1.2
+cryptography==3.2.1
+fastapi==0.61.1
+h11==0.11.0
+pycparser==2.20
+pycrypto==2.6.1
+pydantic==1.7.1
+six==1.15.0
+starlette==0.13.6
+uvicorn==0.12.2
